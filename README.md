@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aslekaryogendra&label=Profile%20views&color=0e75b6&style=flat" alt="aslekaryogendra" /> </p>
 
-- 🔭 I’m currently working on **Three tier architecture through Terraform**
-
 - 💬 Ask me about **DevOps**
 
 <h3 align="left">Connect with me:</h3>
